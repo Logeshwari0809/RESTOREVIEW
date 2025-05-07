@@ -116,11 +116,6 @@ index = load_index_from_storage(storage_context=storage_context, index_id="vecto
 
 ---
 
-## 🎥 Video Demonstration
-Stay tuned! Coming soon in the repository.
-
----
-
 ## 📚 Conclusion
 This project has been an insightful journey into RAG-based applications. With tools like Gemini, Elasticsearch, LlamaIndex, and Docker, building intelligent systems becomes both fun and impactful. The takeaway? Start small, learn by doing, and iterate fast.
 
@@ -152,3 +147,11 @@ Logeshwari — MSc Applied Data Science | AI Enthusiast | Open to Collaboration
 **Industry, Innovation and Infrastructure** (SDG Goal 9): Leveraging AI and technology to enhance decision-making in food and hospitality.
 
 ---
+
+![image alt](https://github.com/Logeshwari0809/RESTOREVIEW/blob/9a0e2d9986b652fc43c092a2c7fe8bc282c7dbc9/screencapture-localhost-8501-2025-05-07-20_12_38.png)
+
+
+![image alt](https://github.com/Logeshwari0809/RESTOREVIEW/blob/9a0e2d9986b652fc43c092a2c7fe8bc282c7dbc9/screencapture-localhost-8501-2025-05-07-20_14_34.png)
+
+
+![image alt](https://github.com/Logeshwari0809/RESTOREVIEW/blob/9a0e2d9986b652fc43c092a2c7fe8bc282c7dbc9/screencapture-localhost-8501-2025-05-07-20_17_14.png)
